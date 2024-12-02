@@ -22,9 +22,9 @@ class Zip_DataIngest(DataIngestor):
         csv_files = [f for f in files if f.endswith('csv')]
 
         if len(csv_files) == 0:
-            raise FileNotFoundError("There is not CSV file")
+            raise FileNotFoundError("No CSV file found in the exatracted data folder")
         elif len(csv_files)>1:
-            raise ValueError("There are multiple .csv files please select the right one")
+            raise ValueError("Multiplt CSV Files Found. Please Choose the Right One")
 
         csv_file_path = os.path.join('Extracted_data',csv_files[0])
         df = pd.read_csv(csv_file_path)
