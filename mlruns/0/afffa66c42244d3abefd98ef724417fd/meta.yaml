@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EliteML-End-to-End-House-Price-Prediction-with-MLOps/mlruns/0/afffa66c42244d3abefd98ef724417fd/artifacts
+end_time: 1733721779347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afffa66c42244d3abefd98ef724417fd
+run_name: silent-yak-676
+run_uuid: afffa66c42244d3abefd98ef724417fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733721773945
+status: 3
+tags: []
+user_id: DELL

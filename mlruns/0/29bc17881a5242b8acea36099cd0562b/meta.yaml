@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EliteML-End-to-End-House-Price-Prediction-with-MLOps/mlruns/0/29bc17881a5242b8acea36099cd0562b/artifacts
+end_time: 1733724096553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29bc17881a5242b8acea36099cd0562b
+run_name: receptive-owl-388
+run_uuid: 29bc17881a5242b8acea36099cd0562b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733724091132
+status: 3
+tags: []
+user_id: DELL

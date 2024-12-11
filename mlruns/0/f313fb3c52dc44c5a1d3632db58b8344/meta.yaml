@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EliteML-End-to-End-House-Price-Prediction-with-MLOps/mlruns/0/f313fb3c52dc44c5a1d3632db58b8344/artifacts
+end_time: 1733721624637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f313fb3c52dc44c5a1d3632db58b8344
+run_name: spiffy-sloth-838
+run_uuid: f313fb3c52dc44c5a1d3632db58b8344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733721622140
+status: 3
+tags: []
+user_id: DELL

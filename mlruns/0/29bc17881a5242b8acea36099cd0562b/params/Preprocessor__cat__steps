@@ -1,0 +1,1 @@
+[('impute', SimpleImputer(strategy='most_frequent')), ('One-Hot', OneHotEncoder(handle_unknown='ignore'))]
